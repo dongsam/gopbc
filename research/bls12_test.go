@@ -5,7 +5,7 @@ import (
 	"math/big"
 	"math/bits"
 	"fmt"
-	"github.com/paulgoleary/gopbc/field"
+	"github.com/dongsam/gopbc/field"
 )
 
 func hammingWeight( x *big.Int ) int {

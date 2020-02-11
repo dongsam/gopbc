@@ -1,7 +1,7 @@
 package pairing
 
 import (
-	"github.com/paulgoleary/gopbc/field"
+	"github.com/dongsam/gopbc/field"
 	"fmt"
 )
 

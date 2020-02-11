@@ -2,7 +2,7 @@ package crypto
 
 import (
 	"testing"
-	"github.com/paulgoleary/gopbc/pairing"
+	"github.com/dongsam/gopbc/pairing"
 )
 
 func TestProxyReEncryptionBasics(t *testing.T) {

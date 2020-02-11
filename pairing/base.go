@@ -3,7 +3,7 @@ package pairing
 import (
 	"encoding/base64"
 	"fmt"
-	"github.com/paulgoleary/gopbc/field"
+	"github.com/dongsam/gopbc/field"
 	"math/big"
 	"strconv"
 )

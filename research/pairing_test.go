@@ -2,7 +2,7 @@ package research
 
 import (
 	"testing"
-	"github.com/paulgoleary/gopbc/field"
+	"github.com/dongsam/gopbc/field"
 	"math/big"
 	)
 
